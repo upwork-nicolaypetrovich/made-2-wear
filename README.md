@@ -1,1 +1,1 @@
-# made-2-wear
+Full screen website basically builded from large sliders. Content adapting vertical and horizontal. All elements comfortably editing from admin panel.
